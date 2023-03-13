@@ -1,0 +1,120 @@
+body{
+    background-image: url('https://portaliluminar.com.br/wp-content/uploads/2018/09/Blue-Background-HD-wallpapers-dark-blue-background-hd-wallpaper-12829.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.container-fluid{
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.navbar-expand-lg .navbar-brand{
+    font-size: 30px;
+}
+.carousel img{
+    margin-top: 60px;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+
+}
+
+form input{
+    width: 400px;
+}
+.navbar-expand-lg:active{
+    color: white
+}
+.navbar-expand-lg li{
+    color: white;
+}
+
+.navbar-expand-lg a{
+    color: white;
+}
+.navbar-expand-lg a:hover{
+    color: rgb(15, 51, 149)
+}
+
+.navbar-expand-lg li:active{
+    color: rgb(15, 51, 149)
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+    color: white;
+  }
+.navbar-expand-lg a:focus{
+    color:rgb(15, 51, 149)
+}  
+
+.navbar-expand-lg li:focus{
+    color: rgb(15, 51, 149)
+}
+
+.card{
+    margin-top: 50px;
+    width: 500px;
+    
+}
+#Petra{
+    width:  450px;
+    margin-top: 30px;
+    border: 1px solid black;
+    border-style: groove;
+    margin: auto;
+    justify-content: center;
+    display: block;
+}
+#Nix{
+    width: 450px;
+    margin-top: 30px;
+    border: 1px solid black;
+    border-style: inset;
+    margin: auto;
+    justify-content: center;
+    display: block;
+}
+
+.News{
+    text-align:center;
+    color: white;
+    font-size: 25px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+#bubbletag{
+    width: 450px;
+    margin-top: 30px;
+    border: 1px solid black;
+    border-style: inset;
+    margin: auto;
+    justify-content: center;
+    display: block;
+}
+
+#firstGroup{
+    color: white;
+    background-color: black;
+}
+#firstGroup:hover, #secondGroupButtons:hover{
+    color: rgb(15, 51, 149);
+}
+#secondGroupButtons{
+    color: white;
+    background-color: black;
+}
+
+#List li{
+    color: white;
+    background-color: black;
+}
+#List li:hover{
+    color: rgb(15, 51, 149);
+}
+#List{
+    background-color: black;
+}
